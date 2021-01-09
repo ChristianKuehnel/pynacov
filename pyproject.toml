@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "pynacov"
+version = "0.1"
+readme = "README.rst"
+authors = ["Christian Kühnel"]
+repository = "https://github.com/christiankuehnel/pynacov"
+license = "Apache License"
+classifiers = [
+]
+
+[tool.poetry.dependencies]
+requests = "^2.25"
